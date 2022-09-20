@@ -6,7 +6,7 @@ subtitle: <a href='#'>Professeur, </a> IPGP, 1 rue Jussieu, Paris
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ffluteau_box.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>IPGP</p>
