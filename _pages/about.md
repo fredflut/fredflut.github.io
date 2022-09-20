@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#toto'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='toto'>Affiliations<PR/a>. IPGP, 1 rue Jussieu, Paris. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Institut de physique du globe de Paris</p>
+    <p>IPGP</p>
     <p>1 rue Jussieu</p>
     <p>Paris</p>
 
