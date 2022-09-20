@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Professeur, </a> IPGP, 1 rue Jussieu, Paris
+subtitle: <a href='#'>Professeur, </a> Institut de physique du globe de Paris
 
 profile:
   align: right
