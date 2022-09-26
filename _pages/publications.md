@@ -1,13 +1,14 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: Bibliography
 nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
 <div class="Publications">
-
+Updated list of publications and book chapters
+  
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
