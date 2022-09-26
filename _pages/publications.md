@@ -15,7 +15,7 @@ nav_order: 1
 
 </div>
 
-# Publications
+## Publications
 
 <ol reversed start="70">
 <li> Wu, F., X. Fang, Y. Yang, G. Dupont-Nivet, J. Nie, F. Fluteau, T. Zhang, W. Han, Z. Guo (2022) Reorganization of Asian climate in relation to Tibetan Plateau uplift. Nat Rev Earth Environ. https://doi.org/10.1038/s43017-022-00331-7 </li>
@@ -334,7 +334,7 @@ http://www.clim-past.net/10/797/2014/cp-10-797-2014.pdf </li>
 </ol>   
 
 
-# Book Chapter
+## Book Chapter
 
 <ol reversed start="8">
 
