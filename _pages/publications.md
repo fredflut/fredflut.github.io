@@ -15,6 +15,8 @@ nav_order: 1
 
 </div>
 
+# Publications
+
 <ol reversed start="70">
 <li> Wu, F., X. Fang, Y. Yang, G. Dupont-Nivet, J. Nie, F. Fluteau, T. Zhang, W. Han, Z. Guo (2022) Reorganization of Asian climate in relation to Tibetan Plateau uplift. Nat Rev Earth Environ. https://doi.org/10.1038/s43017-022-00331-7 </li>
 
@@ -330,3 +332,30 @@ http://www.clim-past.net/10/797/2014/cp-10-797-2014.pdf </li>
 <li> G. Ramstein, F. Fluteau, J. Besse, S. Joussaume. Effects of orogeny, sea-level change and tectonic drift on the monsoon over the past 30 millions years, Nature, 386, 788-795 (1997) </li> 
   
 </ol>   
+
+
+# Book Chapter
+
+<ol reversed start="8">
+
+<li> Fluteau F., Sepulchre P. (2021) Climate Evolution on the Geological Timescale and the Role of Paleogeographic Changes. In: Ramstein G., Landais A., Bouttes N., Sepulchre P., Govin A. (eds) Paleoclimatology. Frontiers in Earth Sciences. Springer, Cham. pp 255-269. 10.1007/978-3-030-24982-3_22 </li>
+
+<li> Fluteau F., Sepulchre P. (2021) The Changing Face of the Earth Throughout the Ages. In: Ramstein G., Landais A., Bouttes N., Sepulchre P., Govin A. (eds) Paleoclimatology. Frontiers in Earth Sciences. Springer, Cham. pp 23-48. 10.1007/978-3-030-24982-3_2  </li>
+  
+<li> V. Pavlov, F. Fluteau, R. Veselovskiy, A. Latyshev, L. Elkins-Tanton, A.V. Sobolev, N.A. Krivolutskaya. Geomagnetic secular variations at the Permo-Triassic boundary and volcanic pulses in the Siberian traps. In Volcanism and Global Environmental Change (Edited by L.T. Elkins-Tanton, A. Schmidt and K. Fristad), Cambridge University Press, 2015. </li>
+  
+<li> V. Courtillot, F. Fluteau, J. Besse. Evidence for volcanism triggering extinctions: a short history of IPGP contributions with emphasis on paleomagnetism. In Volcanism and Global Environmental Change (Edited by L.T. Elkins-Tanton, A. Schmidt and K. Fristad), Cambridge University Press, 2015 </li>
+  
+  <li> F. Fluteau, G. Le Hir, « CLIMATOLOGIE », Encyclopædia Universalis, 2013. </li>
+  
+  <li> F. Fluteau, L’évolution des climats à l’échelle des temps géologiques, le rôle des changements paléogéographiques. Dans Paléoclimatologie, Enquête sur les climats anciens (2 tomes), sous la direction de J-C Duplessy et G. Ramstein - édition EDP Sciences- pp. 77-136 (2012) </li>
+  
+
+ <li> P. Sepulchre, L. C. Sloan, F. Fluteau. Modelling the response of Amazonian climate to the uplift of the Andean mountain range. Dans Amazonia, Landscape and Species Evolution: A Look into the Past. (éditeur C. Hoorn et F. Wesselingh). Wiley-Blackwell. pp. 211-222 (2011) </li>
+  
+ <li> M. Kageyama, F. Fluteau, M. Khodri, G. Ramstein, D. Roche, D. Swingedouw. Modélisations des paléoclimats. Dans Le Climat à découvert sous la direction de C. Jeandel et R. Mosseri – édition CNRS – (2011) </li>
+ 
+</ol>   
+  
+  
+
