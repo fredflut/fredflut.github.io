@@ -1,8 +1,8 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Frédéric Fluteau
+#- title: General Information
+#  type: map
+#  contents:
+#    - name: Full Name
+#      value: Frédéric Fluteau
 
 - title: Education
   type: time_table
