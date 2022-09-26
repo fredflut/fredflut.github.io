@@ -15,6 +15,8 @@ Updated list of publications and book chapters
 {% endfor %}
 
 </div>
+---
+---
 
 ## Publications
 
