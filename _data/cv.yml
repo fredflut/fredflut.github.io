@@ -33,26 +33,9 @@
     - title: Professor 
       institution: Institut de physique du globe de Paris, Paris, France
       year: 2007 - present
-#      description:
-#        - Description 1.
-#        - Description 2.
- #       - title: Description 3.
- #         contents:
- #           - Sub-description 1.
- #           - Sub-description 2.
     - title: Lecturer
       institution: Université Paris Diderot, Paris, France
       year: 1999-2007
-#      description:
-#        - Description 1.
-#        - Description 2.
-
-#- title: Open Source Projects
-#  type: time_table
-#  contents:
-#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#      year: 2015-now
-#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: PhD Students supervision
   type: time_table
