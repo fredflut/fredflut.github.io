@@ -16,6 +16,9 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
+      with:
+          lfs: true
+          token: ${{ secrets.ACCESS_TOKEN }}
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
