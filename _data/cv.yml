@@ -13,7 +13,7 @@
       description:
         - Quelques conséquences de l'activité interne de la terre sur l'évolution du climat et de l'environnement 
         
-    - title: PhD
+    - title: PhD in Earth Sciences
       institution: University Paris Diderot
       year: 1999
       description:
@@ -42,13 +42,16 @@
   contents:
     - year: 2022 - 2025
       items: 
-        - Antonin Pierron (Université Paris Cité), Etude des relations volcanisme et crises de biodiversité par la modélisation numérique 
+        - <p> Antonin Pierron (Université Paris Cité)</p>
+          <p> Etude des relations volcanisme et crises de biodiversité par la modélisation numérique </p>
     - year: 2017 - 2020
       items: 
-        - Delphine Tardif (Université Paris Cité), Évolution du climat au cours du Cénozoïque, impact de la paléogéographie, des paramètres orbitaux et du CO2 sur la mousson asiatique et la biosphère terrestre
+        - <p> Delphine Tardif (Université Paris Cité)</p> 
+          <p> Évolution du climat au cours du Cénozoïque, impact de la paléogéographie, des paramètres orbitaux et du CO2 sur la mousson asiatique et la biosphère terrestre </p>
     - year: 2009-2012
       items :
-        - Yoram Teitler (Université Paris Diderot), Climat et composition de l'atmosphère au Précambrien, des paléosols aux simulations numériques 
+        - <p> Yoram Teitler (Université Paris Diderot)</p> 
+          <p> Climat et composition de l'atmosphère au Précambrien, des paléosols aux simulations numériques </p>
     - year: 2008-2011
       items :
         - Maud Moulin (Université Paris Diderot), Les traps du Karoo et les extinctions du Jurassique inférieur,  dynamique éruptive et perturbations de l'environnement
