@@ -43,21 +43,18 @@
     - year: 2022 - 2025
       items: 
         - Antonin Pierron (Université Paris Cité), Etude des relations volcanisme et crises de biodiversité par la modélisation numérique 
-#   - year: 2017 - 2020
-#     items: 
-#       - Delphine Tardif (Université Paris Cité), Évolution du climat au cours du Cénozoïque : impact de la paléogéographie, des paramètres orbitaux et du CO2 sur la mousson asiatique et la biosphère terrestre
-#    - year: 2012-2014
-#     items :
-#       - Mickael Mussard (Université Paris Diderot)   
-#    - year: 2009-2012
-#     items :
-#       - Yoram Teitler (Université Paris Diderot), Climat et composition de l'atmosphère au Précambrien : des paléosols aux simulations numériques 
-#    - year: 2008-2011
-#     items :
-#       - Maud Moulin (Université Paris Diderot), Les traps du Karoo et les extinctions du Jurassique inférieur :  dynamique éruptive et perturbations de l'environnement
-#    - year: 2004-2006
-#     items :
-#       - Anne-Lise Chenet (Université Paris Diderot), Reconstruction de la séquence éruptive des Traps du Deccan, Inde : conséquences climatiques et environnementales
+    - year: 2017 - 2020
+      items: 
+        - Delphine Tardif (Université Paris Cité), Évolution du climat au cours du Cénozoïque : impact de la paléogéographie, des paramètres orbitaux et du CO2 sur la mousson asiatique et la biosphère terrestre
+    - year: 2009-2012
+      items :
+        - Yoram Teitler (Université Paris Diderot), Climat et composition de l'atmosphère au Précambrien : des paléosols aux simulations numériques 
+    - year: 2008-2011
+      items :
+        - Maud Moulin (Université Paris Diderot), Les traps du Karoo et les extinctions du Jurassique inférieur :  dynamique éruptive et perturbations de l'environnement
+    - year: 2004-2006
+      items :
+        - Anne-Lise Chenet (Université Paris Diderot), Reconstruction de la séquence éruptive des Traps du Deccan, Inde : conséquences climatiques et environnementales
 #- title: Academic Interests
 #  type: nested_list
 #  contents:
