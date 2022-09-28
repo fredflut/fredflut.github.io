@@ -37,27 +37,27 @@
       institution: Université Paris Diderot, Paris, France
       year: 1999-2007
 
-- title: PhD Students supervision
-  type: time_table
-  contents:
-    - year: 2022-2025
-      items: 
-        - Antonin Pierron (Université Paris Cité), Etude des relations volcanisme et crises de biodiversité par la modélisation numérique 
-    - year: 2017-2020
-      items: 
-        - Delphine Tardif (Université Paris Cité)
-    - year: 2012-2014
-     items :
-       - Mickael Mussard (Université Paris Diderot)   
-    - year: 2009-2011
-     items :
-       - Yoram Teitler (Université Paris Diderot)
-    - year: 2008-2011
-     items :
-       - Maud Moulin (Université Paris Diderot)
-    - year: 2003-2006
-     items :
-       - Anne-Lise Chenet (Université Paris Diderot)
+#- title: PhD Students supervision
+#  type: time_table
+#  contents:
+#    - year: 2022-2025
+#      items: 
+#        - Antonin Pierron (Université Paris Cité), Etude des relations volcanisme et crises de biodiversité par la modélisation numérique 
+#    - year: 2017-2020
+#      items: 
+#        - Delphine Tardif (Université Paris Cité)
+#    - year: 2012-2014
+#     items :
+#       - Mickael Mussard (Université Paris Diderot)   
+#    - year: 2009-2011
+#     items :
+#       - Yoram Teitler (Université Paris Diderot)
+#    - year: 2008-2011
+#     items :
+#       - Maud Moulin (Université Paris Diderot)
+#    - year: 2003-2006
+#     items :
+#       - Anne-Lise Chenet (Université Paris Diderot)
 #- title: Academic Interests
 #  type: nested_list
 #  contents:
