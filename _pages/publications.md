@@ -21,7 +21,7 @@ Updated list of publications and book chapters
 ## Publications
 
 <ol reversed start="70">
-<li> Wu, F., X. Fang, Y. Yang, G. Dupont-Nivet, J. Nie, F. Fluteau, T. Zhang, W. Han, Z. Guo (2022) Reorganization of Asian climate in relation to Tibetan Plateau uplift. Nat Rev Earth Environ. doi:10.1038/s43017-022-00331-7  </li>
+<li> Wu, F., X. Fang, Y. Yang, G. Dupont-Nivet, J. Nie, F. Fluteau, T. Zhang, W. Han, Z. Guo (2022) Reorganization of Asian climate in relation to Tibetan Plateau uplift. Nat Rev Earth Environ. https://www.nature.com/articles/s43017-022-00331-7  </li>
 
  
 <li> Marcilly, C. M, P. Maffre, G. Le Hir, A. Pohl, F. Fluteau, Y. Goddéris, Y. Donnadieu, T. H. Heimdala, T. H. Torsvik (2022). Understanding the early Paleozoic carbon cycle balance and climate change from modelling. Earth and Planetary Science Letters 594, 117717. https://doi.org/10.1016/j.epsl.2022.117717 </li>
