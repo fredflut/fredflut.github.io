@@ -21,7 +21,7 @@ Updated list of publications and book chapters
 ## Publications
 
 <ol reversed start="70">
-<li> Wu, F., X. Fang, Y. Yang, G. Dupont-Nivet, J. Nie, F. Fluteau, T. Zhang, W. Han, Z. Guo (2022) Reorganization of Asian climate in relation to Tibetan Plateau uplift. Nat Rev Earth Environ. https://doi.org/10.1038/s43017-022-00331-7 </li>
+<li> Wu, F., X. Fang, Y. Yang, G. Dupont-Nivet, J. Nie, F. Fluteau, T. Zhang, W. Han, Z. Guo (2022) Reorganization of Asian climate in relation to Tibetan Plateau uplift. Nat Rev Earth Environ. doi:10.1038/s43017-022-00331-7 [link](https://doi.org/10.1038/s43017-022-00331-7) </li>
 
  
 <li> Marcilly, C. M, P. Maffre, G. Le Hir, A. Pohl, F. Fluteau, Y. Goddéris, Y. Donnadieu, T. H. Heimdala, T. H. Torsvik (2022). Understanding the early Paleozoic carbon cycle balance and climate change from modelling. Earth and Planetary Science Letters 594, 117717. https://doi.org/10.1016/j.epsl.2022.117717 </li>
@@ -41,7 +41,7 @@ https://doi.org/10.1038/s41561-022-00919-0 </li>
 
 <li> Gibert, C., A. Vignoles, C. Contoux, W. E Banks, D. Barboni, J-R Boisserie, O. Chavasseau, F. Fluteau, F. Guy, C. Noûs, O. Otero, P. Sepulchre, A. Souron, G. Ramstein (2022) Climate-inferred distribution estimates of mid-to-late Pliocene hominins. Global and Planetary Change 210, 103756.
 
-https://doi.org/10.1016/j.gloplacha.2022.103756    https://hal.archives-ouvertes.fr/hal-03566073 </li>
+https://doi.org/10.1016/j.gloplacha.2022.103756 </li>
 
  
 
