@@ -5,10 +5,10 @@ title: contact
 nav: true
 ---
 
-![building](batiment.jpg)
+![building](https://github.com/fredflut/fredflut.github.io/tree/master/assets/img/batiment.jpg)
 
 # Mail adress
 <p> Institut de physique du globe de Paris </p>
- </p> Equipe de Paléomagnétisme  </p>
- </p> 1 rue Jussieu  </p>
- </p> 75238 Paris cedex 05, France  </p>
+ <p> Equipe de Paléomagnétisme  </p>
+ <p> 1 rue Jussieu  </p>
+ <p> 75238 Paris cedex 05, France  </p>
