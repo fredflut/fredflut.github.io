@@ -6,7 +6,7 @@ subtitle: <a href='#'>Professeur, </a> Institut de physique du globe de Paris
 
 profile:
   align: right
-  image: ffluteau_box.jpg
+  image: ffluteau.jpg
   image_circular: false # crops the image to make it circular
  
 
