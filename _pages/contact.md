@@ -5,7 +5,7 @@ title: contact
 nav: true
 ---
 
-![image du batiment](../assets/img/batiment.jpg) | width="200"
+![image du batiment]<img src ="../assets/img/batiment.jpg" width="200" >
 
 # Mail adress
 <p> Institut de physique du globe de Paris </p>
