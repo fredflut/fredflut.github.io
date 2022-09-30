@@ -42,24 +42,27 @@
   contents:
     - year: 2022 - 2025
       items: 
-        - <p> Antonin Pierron (Université Paris Cité)</p>
+        - Antonin Pierron (Université Paris Cité)
           <p> Etude des relations volcanisme et crises de biodiversité par la modélisation numérique </p>
     - year: 2017 - 2020
       items: 
-        - <p> Delphine Tardif (Université Paris Cité)</p> 
+        - Delphine Tardif (Université Paris Cité) 
           <p> Évolution du climat au cours du Cénozoïque, impact de la paléogéographie, des paramètres orbitaux et du CO2 sur la mousson asiatique et la biosphère terrestre </p>
     - year: 2012-2014
-        - <p> Mickaël Mussard</p>
+      items:
+        - Mickaël Mussard
     - year: 2009-2012
       items :
-        - <p> Yoram Teitler (Université Paris Diderot)</p> 
+        - Yoram Teitler (Université Paris Diderot) 
           <p> Climat et composition de l'atmosphère au Précambrien, des paléosols aux simulations numériques </p>
     - year: 2008-2011
       items :
-        - Maud Moulin (Université Paris Diderot), Les traps du Karoo et les extinctions du Jurassique inférieur,  dynamique éruptive et perturbations de l'environnement
+        - Maud Moulin (Université Paris Diderot) 
+        <p> Les traps du Karoo et les extinctions du Jurassique inférieur, dynamique éruptive et perturbations de l'environnement </p>
     - year: 2004-2006
       items :
-        - Anne-Lise Chenet (Université Paris Diderot), Reconstruction de la séquence éruptive des Traps du Deccan, Inde, conséquences climatiques et environnementales
+        - Anne-Lise Chenet (Université Paris Diderot)
+        <p> Reconstruction de la séquence éruptive des Traps du Deccan, Inde, conséquences climatiques et environnementales </p>
 #- title: Academic Interests
 #  type: nested_list
 #  contents:
