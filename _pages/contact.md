@@ -5,7 +5,7 @@ title: contact
 nav: true
 ---
 
-[![building](https://github.com/fredflut/fredflut.github.io/tree/master/assets/img/batiment.jpg)]
+![image du batiment](batiment.jpg)
 
 # Mail adress
 <p> Institut de physique du globe de Paris </p>
