@@ -58,11 +58,11 @@
     - year: 2008-2011
       items :
         - Maud Moulin (Université Paris Diderot) 
-        <p> Les traps du Karoo et les extinctions du Jurassique inférieur, dynamique éruptive et perturbations de l'environnement </p>
+          <p> Les traps du Karoo et les extinctions du Jurassique inférieur, dynamique éruptive et perturbations de l environnement </p>
     - year: 2004-2006
       items :
         - Anne-Lise Chenet (Université Paris Diderot)
-        <p> Reconstruction de la séquence éruptive des Traps du Deccan, Inde, conséquences climatiques et environnementales </p>
+          <p> Reconstruction de la séquence éruptive des Traps du Deccan, Inde, conséquences climatiques et environnementales </p>
 #- title: Academic Interests
 #  type: nested_list
 #  contents:
