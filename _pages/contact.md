@@ -2,7 +2,7 @@
 layout: contact
 permalink: /contact/
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 <iframe src="https://www.google.fr/maps/@48.8447005,2.3564212,19.15z" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
